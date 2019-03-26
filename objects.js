@@ -4,3 +4,4 @@ var playlist = {
   misaEGallo: "Sumerio"
 };
   
+function 
