@@ -4,4 +4,8 @@ var playlist = {
   misaEGallo: "Sumerio"
 };
   
-function 
+function updatePlaylist(playlist, artistName, songTitle) {
+  playlist = {johnMayer: "Daughters"};
+  return playlist
+  
+}
